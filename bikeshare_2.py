@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import  numpy as np
 pd.set_option("Display.max_columns",None)
-
+#This is a CLI program developed to allow user to explore an US BikeShare System database
 CITY_DATA = { 'Chicago': 'chicago.csv',
               'New York city': 'new_york_city.csv',
               'Washington': 'washington.csv' }
