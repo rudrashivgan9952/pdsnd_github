@@ -16,6 +16,7 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
+    print("Please note that chicago has additional gender and birth years ")
     city="Empty"
     month="Empty"
     day="Empty"
